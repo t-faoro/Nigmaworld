@@ -16,5 +16,6 @@ define(JS_PATH, "./javascript/");
 define(CSS_PATH, "./style/");
 define(TITLE, "Nigmaworld Development Environment");
 define(USER_FILE, "./Galleries/");
+define(IMG, "./images/");
 
 ?>

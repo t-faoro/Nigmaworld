@@ -21,12 +21,13 @@ $Main->add("<h1>Nigmaworld Development Environment</h1>");
 
 $DevSite->addJS("jquery-2.0.3.min.js");
 $DevSite->addJS("../ckeditor/ckeditor.js");
-//$DevSite->addJS("lightbox-2.6.min.js");
+$DevSite->addJS("jquery-ui.js");
 //$DevSite->addJS("scrollingcarousel.2.0.js");
 $DevSite->addJS("site.js");
 
 $DevSite->addCSS("style.css");
-//$DevSite->addCSS("files.css");
+$DevSite->addCSS("enigma.css");
+$DevSite->addCSS("jquery-ui.css");
 //$DevSite->addCSS("lightbox.css");
 
 
